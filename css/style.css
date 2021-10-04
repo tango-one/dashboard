@@ -1,0 +1,15 @@
+
+
+:root {
+
+
+
+--green: hsl(160 60% 50%)
+
+  
+
+}
+
+body {
+    background-color: var(--green);
+}
