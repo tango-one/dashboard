@@ -1,15 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+/*
+font-family: 'Open Sans', sans-serif;
+*/
+
 
 
 :root {
 
 
 
---green: hsl(160 60% 50%)
 
   
 
 }
 
-body {
-    background-color: var(--green);
-}
+
